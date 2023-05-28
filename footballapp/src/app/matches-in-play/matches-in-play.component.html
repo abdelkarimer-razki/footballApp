@@ -1,0 +1,6 @@
+<p>matches-in-play works!</p>
+<div  class="matchBar" *ngFor="let match of matches">
+	<div class="home">{{match.homeTeam.name}}</div>
+	<div class="score">{{match.score.fullTime.home}} - {{match.score.fullTime.away}}</div>
+	<div class="away">{{match.awayTeam.name}}</div>
+</div>
