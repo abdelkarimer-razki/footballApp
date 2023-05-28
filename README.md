@@ -25,7 +25,7 @@ To run this web application locally, make sure you have the following installed:
 1. Clone this repository to your local machine using the following command:
 
 ```shell
-git clone https://github.com/your-username/your-repo.git
+git clone https://github.com/your-username/footballApp.git
 ```
 
 2. Install the server-side dependencies by navigating to the project's root directory and running:
